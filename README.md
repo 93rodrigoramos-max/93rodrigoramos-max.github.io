@@ -1,5 +1,3 @@
-# 93rodrigoramos-max.github.io
-CADASTRO DE PARTICIPANTES - 01 MODULO CATECUMENATO
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
